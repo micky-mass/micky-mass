@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @micky-mass
+- 👀 I’m interested in fullstack development 
+- 🌱 I’m beginner on this field 
+- 💞️ I would like your cooperation
+- 📫 How to reach me 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
